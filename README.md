@@ -137,20 +137,30 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28,28),cmap='gray')
 
 **Training Loss per Epoch**
 
-Include the Training Loss per epoch
+<img width="1211" height="222" alt="image" src="https://github.com/user-attachments/assets/979bdcd8-f60f-4d77-846c-f99c854d296d" />
+
 
 **Confusion Matrix**
 
-Include confusion matrix here
+<img width="825" height="235" alt="image" src="https://github.com/user-attachments/assets/c92c4a0e-acbe-4ebf-9832-1e6684f54b39" />
+
 
 **Classification Report**
 
-Include classification report here
+<img width="874" height="357" alt="image" src="https://github.com/user-attachments/assets/33660858-243b-42fd-8f56-6a9789915fba" />
 
 **New Sample Data Prediction**
 
-Include your sample input and output here
+<img width="1330" height="511" alt="image" src="https://github.com/user-attachments/assets/6f1ca7fd-058b-49de-9fb6-21275503f3e7" />
+<img width="1437" height="522" alt="image" src="https://github.com/user-attachments/assets/493e4096-795d-4541-aae6-da24f05299f3" />
+<img width="1236" height="482" alt="image" src="https://github.com/user-attachments/assets/76087a74-0167-4bad-bd25-ea3f97bed905" />
+<img width="1040" height="522" alt="image" src="https://github.com/user-attachments/assets/a5057cd0-975c-4aa6-8e42-535b19602655" />
+
+
+
+
 
 ## RESULT
+Thus, a Convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed successfully.
 
-Include your result here
+
